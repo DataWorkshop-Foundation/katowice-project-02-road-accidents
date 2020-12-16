@@ -1,3 +1,5 @@
+# Welcome to Katowice Data Workshop Project Group Git!
+
 ## Project data
 EN:
 <br />
@@ -26,4 +28,3 @@ ZOOM: katowice
 - [Slack #katowice](https://app.slack.com/client/TCCTN4HU3/CG9MUSU3C)
 - [Slack work place](https://app.slack.com/client/TCCTN4HU3/CL7LW5QKD/details/info)
 - [Meeting calendar](https://calendar.google.com/calendar/embed?src=5mipsspr0kh2m10n98i8bdlmf0%40group.calendar.google.com&ctz=Europe%2FWarsaw)
-...
